@@ -1,0 +1,13 @@
+.rounded-inputs {
+    border-radius: 20px !important;
+}
+
+.inputs {
+    border-radius: 8px;
+    padding-top: 8px;
+}
+
+
+button {
+    font-size: 16px;
+}
